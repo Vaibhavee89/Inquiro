@@ -1,8 +1,6 @@
-# AI-Powered Research Assistant — Full Project
+# AI-Powered Research Assistant 
 
-**What this is**
-
-A complete, full-stack reference implementation of an AI-powered research assistant that:
+A complete, full-stack implementation of an AI-powered research assistant that:
 
 * accepts a research topic or query
 * fetches recent papers from arXiv and Semantic Scholar
@@ -27,7 +25,6 @@ Key components included in this repo:
 * `backend/` — FastAPI app that handles search, fetch, summarization and citation formatting
 * `frontend/` — React app (single-page) with UI to search, view summaries, and mind-map visualizer
 * `scripts/` — small utilities (e.g., import/export BibTeX)
-* `README` — this document (you are reading it)
 
 ---
 
