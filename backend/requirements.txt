@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+python-dotenv
+sqlalchemy
+alembic
+openai
+beautifulsoup4
+lxml
+python-multipart
